@@ -1,0 +1,71 @@
+Initial commit
+# Please enter the commit message for your changes. Lines starting
+# with '#' will be ignored, and an empty message aborts the commit.
+#
+# On branch master
+#
+# Initial commit
+#
+# Changes to be committed:
+#	new file:   DiceGame.xcodeproj/project.pbxproj
+#	new file:   DiceGame.xcodeproj/project.xcworkspace/contents.xcworkspacedata
+#	new file:   DiceGame.xcodeproj/project.xcworkspace/xcshareddata/IDEWorkspaceChecks.plist
+#	new file:   DiceGame.xcodeproj/project.xcworkspace/xcuserdata/marcynelson.xcuserdatad/UserInterfaceState.xcuserstate
+#	new file:   DiceGame.xcodeproj/xcuserdata/marcynelson.xcuserdatad/xcschemes/xcschememanagement.plist
+#	new file:   DiceGame/AppDelegate.swift
+#	new file:   DiceGame/Assets.xcassets/AppIcon.appiconset/1024.png
+#	new file:   DiceGame/Assets.xcassets/AppIcon.appiconset/114.png
+#	new file:   DiceGame/Assets.xcassets/AppIcon.appiconset/120.png
+#	new file:   DiceGame/Assets.xcassets/AppIcon.appiconset/180.png
+#	new file:   DiceGame/Assets.xcassets/AppIcon.appiconset/29.png
+#	new file:   DiceGame/Assets.xcassets/AppIcon.appiconset/40.png
+#	new file:   DiceGame/Assets.xcassets/AppIcon.appiconset/57.png
+#	new file:   DiceGame/Assets.xcassets/AppIcon.appiconset/58.png
+#	new file:   DiceGame/Assets.xcassets/AppIcon.appiconset/60.png
+#	new file:   DiceGame/Assets.xcassets/AppIcon.appiconset/80.png
+#	new file:   DiceGame/Assets.xcassets/AppIcon.appiconset/87.png
+#	new file:   DiceGame/Assets.xcassets/AppIcon.appiconset/Contents.json
+#	new file:   DiceGame/Assets.xcassets/Contents.json
+#	new file:   DiceGame/Assets.xcassets/DiceFive.imageset/Contents.json
+#	new file:   DiceGame/Assets.xcassets/DiceFive.imageset/dice5.png
+#	new file:   DiceGame/Assets.xcassets/DiceFive.imageset/dice5@2x.png
+#	new file:   DiceGame/Assets.xcassets/DiceFive.imageset/dice5@3x.png
+#	new file:   DiceGame/Assets.xcassets/DiceFour.imageset/Contents.json
+#	new file:   DiceGame/Assets.xcassets/DiceFour.imageset/dice4.png
+#	new file:   DiceGame/Assets.xcassets/DiceFour.imageset/dice4@2x.png
+#	new file:   DiceGame/Assets.xcassets/DiceFour.imageset/dice4@3x.png
+#	new file:   DiceGame/Assets.xcassets/DiceOne.imageset/Contents.json
+#	new file:   DiceGame/Assets.xcassets/DiceOne.imageset/dice1.png
+#	new file:   DiceGame/Assets.xcassets/DiceOne.imageset/dice1@2x.png
+#	new file:   DiceGame/Assets.xcassets/DiceOne.imageset/dice1@3x.png
+#	new file:   DiceGame/Assets.xcassets/DiceSix.imageset/Contents.json
+#	new file:   DiceGame/Assets.xcassets/DiceSix.imageset/dice6.png
+#	new file:   DiceGame/Assets.xcassets/DiceSix.imageset/dice6@2x.png
+#	new file:   DiceGame/Assets.xcassets/DiceSix.imageset/dice6@3x.png
+#	new file:   DiceGame/Assets.xcassets/DiceThree.imageset/Contents.json
+#	new file:   DiceGame/Assets.xcassets/DiceThree.imageset/dice3.png
+#	new file:   DiceGame/Assets.xcassets/DiceThree.imageset/dice3@2x.png
+#	new file:   DiceGame/Assets.xcassets/DiceThree.imageset/dice3@3x.png
+#	new file:   DiceGame/Assets.xcassets/DiceTwo.imageset/Contents.json
+#	new file:   DiceGame/Assets.xcassets/DiceTwo.imageset/dice2.png
+#	new file:   DiceGame/Assets.xcassets/DiceTwo.imageset/dice2@2x.png
+#	new file:   DiceGame/Assets.xcassets/DiceTwo.imageset/dice2@3x.png
+#	new file:   DiceGame/Assets.xcassets/DiceeLogo.imageset/Contents.json
+#	new file:   DiceGame/Assets.xcassets/DiceeLogo.imageset/diceeLogo.png
+#	new file:   DiceGame/Assets.xcassets/DiceeLogo.imageset/diceeLogo@2x.png
+#	new file:   DiceGame/Assets.xcassets/DiceeLogo.imageset/diceeLogo@3x.png
+#	new file:   DiceGame/Assets.xcassets/GreenBackground.imageset/Contents.json
+#	new file:   DiceGame/Assets.xcassets/GreenBackground.imageset/newbackground.png
+#	new file:   DiceGame/Assets.xcassets/GreenBackground.imageset/newbackground@2x.png
+#	new file:   DiceGame/Assets.xcassets/GreenBackground.imageset/newbackground@3x.png
+#	new file:   DiceGame/Assets.xcassets/LaunchScreenAssets/AppBreweryBackground.imageset/Contents.json
+#	new file:   DiceGame/Assets.xcassets/LaunchScreenAssets/AppBreweryBackground.imageset/background.pdf
+#	new file:   DiceGame/Assets.xcassets/LaunchScreenAssets/AppBreweryLogo.imageset/AppBreweryLogo.png
+#	new file:   DiceGame/Assets.xcassets/LaunchScreenAssets/AppBreweryLogo.imageset/Contents.json
+#	new file:   DiceGame/Assets.xcassets/LaunchScreenAssets/Contents.json
+#	new file:   DiceGame/Base.lproj/LaunchScreen.storyboard
+#	new file:   DiceGame/Base.lproj/Main.storyboard
+#	new file:   DiceGame/Info.plist
+#	new file:   DiceGame/SceneDelegate.swift
+#	new file:   DiceGame/ViewController.swift
+#

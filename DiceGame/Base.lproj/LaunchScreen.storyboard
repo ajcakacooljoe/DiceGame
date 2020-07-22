@@ -15,16 +15,30 @@
                         <rect key="frame" x="0.0" y="0.0" width="414" height="896"/>
                         <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
                         <subviews>
-                            <imageView clipsSubviews="YES" userInteractionEnabled="NO" contentMode="scaleAspectFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" image="AppBreweryBackground" translatesAutoresizingMaskIntoConstraints="NO" id="Nk3-sc-IwT">
-                                <rect key="frame" x="0.0" y="0.0" width="414" height="896"/>
-                                <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                            <imageView clipsSubviews="YES" userInteractionEnabled="NO" contentMode="scaleAspectFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" image="AppBreweryBackground" translatesAutoresizingMaskIntoConstraints="NO" id="Nk3-sc-IwT">
+                                <rect key="frame" x="-44" y="0.0" width="502" height="896"/>
                             </imageView>
-                            <imageView clipsSubviews="YES" userInteractionEnabled="NO" contentMode="scaleAspectFit" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" image="DiceeLogo" translatesAutoresizingMaskIntoConstraints="NO" id="pRA-LF-YBR">
-                                <rect key="frame" x="87" y="272" width="240" height="128"/>
-                                <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                            <imageView clipsSubviews="YES" userInteractionEnabled="NO" contentMode="scaleAspectFit" horizontalHuggingPriority="251" verticalHuggingPriority="251" image="DiceeLogo" translatesAutoresizingMaskIntoConstraints="NO" id="GUq-Ej-a0x">
+                                <rect key="frame" x="109" y="384" width="196" height="128"/>
                             </imageView>
+                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="50 50 chance" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="uMe-ba-0Dx">
+                                <rect key="frame" x="113.5" y="542" width="187" height="37"/>
+                                <fontDescription key="fontDescription" type="system" pointSize="31"/>
+                                <nil key="textColor"/>
+                                <nil key="highlightedColor"/>
+                            </label>
                         </subviews>
                         <color key="backgroundColor" systemColor="systemBackgroundColor" cocoaTouchSystemColor="whiteColor"/>
+                        <constraints>
+                            <constraint firstItem="uMe-ba-0Dx" firstAttribute="centerX" secondItem="Ze5-6b-2t3" secondAttribute="centerX" id="1lU-vx-P7k"/>
+                            <constraint firstItem="Nk3-sc-IwT" firstAttribute="leading" secondItem="Ze5-6b-2t3" secondAttribute="leading" constant="-44" id="4Ow-aj-nJu"/>
+                            <constraint firstItem="GUq-Ej-a0x" firstAttribute="centerY" secondItem="Ze5-6b-2t3" secondAttribute="centerY" id="92z-lh-Dn2"/>
+                            <constraint firstItem="Nk3-sc-IwT" firstAttribute="trailing" secondItem="Ze5-6b-2t3" secondAttribute="trailing" constant="44" id="BDv-rx-k19"/>
+                            <constraint firstAttribute="bottom" secondItem="Nk3-sc-IwT" secondAttribute="bottom" id="Mb1-5L-65X"/>
+                            <constraint firstItem="Nk3-sc-IwT" firstAttribute="top" secondItem="Ze5-6b-2t3" secondAttribute="top" id="cwG-DP-62e"/>
+                            <constraint firstItem="uMe-ba-0Dx" firstAttribute="top" secondItem="GUq-Ej-a0x" secondAttribute="bottom" constant="30" id="sWt-Xi-aGT"/>
+                            <constraint firstItem="GUq-Ej-a0x" firstAttribute="centerX" secondItem="Ze5-6b-2t3" secondAttribute="centerX" id="ytP-O5-HPu"/>
+                        </constraints>
                         <viewLayoutGuide key="safeArea" id="6Tk-OE-BBY"/>
                     </view>
                 </viewController>
